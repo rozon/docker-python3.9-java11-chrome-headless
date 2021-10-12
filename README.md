@@ -4,6 +4,6 @@
 - Debian buster
 - Python 3.9
 - Java 11
-- Google Chrome 92.0.4515.131
-- Chromedriver 92.0.4515.107
+- Google Chrome 94.0.4606.61
+- Chromedriver 94.0.4606.61
 - Allure Framework 2.14.0
